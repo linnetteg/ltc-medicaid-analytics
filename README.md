@@ -171,3 +171,26 @@ LTC Medicaid Analytics combines my professional experience in long-term care Med
 Rather than creating a generic database, I'm modeling realistic healthcare workflows and using data to answer meaningful business questions. The objective is to demonstrate not only technical proficiency, but also the ability to translate operational challenges into actionable insights that support better decision-making.
 
 This project is being developed as a complete, end-to-end analytics case study suitable for a professional portfolio.
+
+---
+
+## Find Me Online
+
+- 🌐 [Linnette Builds Portfolio](https://linnettebuilds.carrd.co)
+- 💼 [LinkedIn Profile & Resume](https://www.linkedin.com/in/linnetteg)
+- ✍️ [Linnette Builds Newsletter](https://www.linkedin.com/newsletters/linnette-builds-7484706504760262656/)
+- 📰 [Substack](https://linnettebuilds.substack.com)
+- 💻 [GitHub](https://github.com/linnetteg)
+
+---
+
+## 🚀 Current Projects
+
+- 📚 **[Data Nerd Library](https://github.com/linnetteg/data-nerd-library)**  
+  *Curated SQL, AI, Excel, Power BI, Python, GitHub, and data analytics learning resources.*
+
+- 🏥 **[LTC Medicaid Analytics](https://github.com/linnetteg/ltc-medicaid-analytics)**  
+  *SQL database project inspired by long-term care Medicaid workflows and healthcare analytics.*
+
+- ⭐ **[Review Manager Tracker](https://github.com/linnetteg/review-manager-tracker)**  
+  *AI-assisted review management application for organizing products, capturing notes, generating review drafts, and tracking review completion.*
