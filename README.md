@@ -194,3 +194,7 @@ This project is being developed as a complete, end-to-end analytics case study s
 
 - ⭐ **[Review Manager Tracker](https://github.com/linnetteg/review-manager-tracker)**  
   *AI-assisted review management application for organizing products, capturing notes, generating review drafts, and tracking review completion.*
+
+---
+
+> **Turning healthcare experience into data insights—one query at a time. 🏥**
